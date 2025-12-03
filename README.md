@@ -1,5 +1,5 @@
 # Hey there!
-I’m Blaze , A person who likes turning random ideas into real, working things.
+I’m a person who likes turning random ideas into real, working things.
 
 I’m from Jordan, usually learning something new, tinkering with hardware, or writing Python scripts that start as experiments and somehow become full projects.
 
