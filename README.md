@@ -16,5 +16,5 @@ Outside of projects, I mess around with code, test ideas, and try to level up my
 - I like Sherlock Holmes
 - I like Anime
 
-"When you have eliminated the impossible, whatever remains, however improbable, must be the truth" 
-- Sherlock Holmes
+"When you have eliminated the impossible, whatever remains, however improbable, must be the truth" - Sherlock Holmes
+ 
